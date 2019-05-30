@@ -11,8 +11,7 @@ using System;
 using System.Timers;
 
 namespace PPE_2
-{
-    class Program : Form
+{ class Program
     {
         private static System.Timers.Timer aTimer;
         static void Main(string[] args)
